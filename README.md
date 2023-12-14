@@ -1,9 +1,15 @@
 # Daegu_Traffic_Accident_Damage_Prediction_AI_Competition
-Dacon Competition (Private 2nd) (https://dacon.io/competitions/official/236193/overview/description)
+### Dacon Competition (Private 2nd) (https://dacon.io/competitions/official/236193/overview/description)
+
+### Public 5th & Private 2nd
+
+***
 
 데이콘 대구 교통사고 피해 예측 AI 경진대회 Team BITAmin13기 코드입니다.
 
-### Public 5th & Private 2nd
+코드에서 사용되는 외부 데이터 드라이브 링크입니다
+
+https://drive.google.com/drive/folders/1BhrH70zYT8Mp0rYHkHgL8w0hqkt9kwe8?usp=drive_link
 
 분석 내용과 핵심 아이디어는 pdf 내용으로 첨부하곘습니다.
 
