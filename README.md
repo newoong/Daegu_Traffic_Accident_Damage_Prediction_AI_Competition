@@ -1,5 +1,5 @@
 # Daegu_Traffic_Accident_Damage_Prediction_AI_Competition
-### Dacon Competition (Private 2nd) (https://dacon.io/competitions/official/236193/overview/description)
+### Dacon Competition (Private 2nd & Awards 1st) (https://dacon.io/competitions/official/236193/overview/description)
 
 ### Public 5th & Private 2nd & Final Awards 1st
 
